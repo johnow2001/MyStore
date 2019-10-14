@@ -1,4 +1,4 @@
-Feature: Add to cart
+Feature: Add to cart feature
 
 
   Scenario: Add most expensive dress to cart, log out and log back in and verify item is in cart
