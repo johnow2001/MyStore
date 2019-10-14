@@ -1,4 +1,4 @@
-Feature: Account creation
+Feature: Account creation feature
   Users needing to purchase items from the webite need to create a new account
 
   Background: Navgigate to the homepage and select login
